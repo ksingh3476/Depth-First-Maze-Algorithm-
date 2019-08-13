@@ -1,6 +1,4 @@
-#include "MazeGen.hpp"
-#include <ics46/factory/DynamicFactory.hpp>
-ICS46_DYNAMIC_FACTORY_REGISTER(MazeGenerator, MazeGen, "Ketan's Maze Generator (Required)")
+
 
 
 MazeGen :: MazeGen()
