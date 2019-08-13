@@ -1,6 +1,4 @@
-#include "MySolver.hpp"
-#include <ics46/factory/DynamicFactory.hpp>
-ICS46_DYNAMIC_FACTORY_REGISTER(MazeSolver, MySolver, "Ketan's Maze Solver (Required)")
+
 
 MySolver :: MySolver()
 {
